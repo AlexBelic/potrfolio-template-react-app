@@ -3,7 +3,7 @@
 ## Development Dependencies
 
 <!-- List ul -->
-- framer-motio
+- framer-motion
 - react-countup
 - react-icons
 - react-intersection-observer
