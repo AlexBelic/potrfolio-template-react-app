@@ -3,10 +3,10 @@
 ## Development Dependencies
 
 <!-- List ul -->
-    - framer-motio
-    - react-countup
-    - react-icons
-    - react-intersection-observer
-    - react-scroll
-    - react-type-animation
-    - tailwindcss
+- framer-motio
+- react-countup
+- react-icons
+- react-intersection-observer
+- react-scroll
+- react-type-animation
+- tailwindcss
