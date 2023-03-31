@@ -1,7 +1,8 @@
 ﻿# potrfolio-template-react-app
 
-
 ## Development Dependencies
+
+<!-- List ul -->
     - framer-motio
     - react-countup
     - react-icons
